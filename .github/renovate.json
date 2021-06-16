@@ -18,6 +18,5 @@
   ],
   "constraints": {
     "pnpm": "5"
-  },
-  "ignorePaths": ["spec/**"]
+  }
 }
